@@ -35,6 +35,13 @@ Gem::Specification.new do |s|
      "lib/segments/qrf.rb",
      "lib/segments/sft.rb",
      "lib/segments/spm.rb",
+    
+     "lib/segments/ft1.rb",
+     "lib/segments/in1.rb",
+     "lib/segments/zcs.rb",
+     "lib/segments/zft.rb",
+     "lib/segments/zms.rb",
+
      "lib/string.rb",
      "lib/test/hl7_messages.rb",
      "test_data/adt_a01.hl7",
